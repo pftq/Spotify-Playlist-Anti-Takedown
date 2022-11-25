@@ -1,0 +1,5 @@
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\bin\Release\SpotifyPlaylistAntiTakedown.exe.config
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\bin\Release\SpotifyPlaylistAntiTakedown.exe
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\bin\Release\SpotifyPlaylistAntiTakedown.pdb
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\obj\x86\Release\SpotifyPlaylistAntiTakedown.exe
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\obj\x86\Release\SpotifyPlaylistAntiTakedown.pdb
