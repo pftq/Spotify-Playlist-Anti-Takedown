@@ -50,7 +50,7 @@ namespace SpotifyPlaylistAntiTakedown
                                 if (GetPlaylist(playlist.Key, playlist.Value["Name"]) == "" && playlist.Value["Name"]!="")
                                     UpdatePlaylist(playlist.Key, playlist.Value["Name"], playlist.Value["Description"]);
                             }
-                            System.Threading.Thread.Sleep(15 * 1000);
+                            System.Threading.Thread.Sleep(60 * 1000);
                         }
                         catch (Exception e) { WriteLine("Error: " + e); accountToken = ""; }
                     }
