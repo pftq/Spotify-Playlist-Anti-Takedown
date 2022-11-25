@@ -3,7 +3,7 @@ Short script for restoring the title/description if a bot is repeatedly taking d
 
 Instructions: Executable file is located in bin/release folder (just double-click the exe).
 
-Right now, someone can just report your playlist, and it'll instantly lose its title and description with no recourse.  It's a problem that's been around as described here:
+Right now, someone can just report your playlist, and it'll instantly lose its title and description with no recourse.  It's a problem that's been around for years as described here:
 https://community.spotify.com/t5/Live-Ideas/Playlists-Solution-to-false-abusive-reporting/idi-p/4928676
 
 This script will continuously monitor all playlists on your Spotify account and restore the playlist if any of them lose their title/description.  It undoes the damage/symptom, not the core problem, but that's ultimately up to Spotify to resolve.
