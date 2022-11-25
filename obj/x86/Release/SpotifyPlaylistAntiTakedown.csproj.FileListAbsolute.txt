@@ -3,3 +3,4 @@ J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\bin\Release\SpotifyPlaylistAntiTakedo
 J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\bin\Release\SpotifyPlaylistAntiTakedown.pdb
 J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\obj\x86\Release\SpotifyPlaylistAntiTakedown.exe
 J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\obj\x86\Release\SpotifyPlaylistAntiTakedown.pdb
+J:\PFTQ\CSharp\SpotifyPlaylistAntiTakedown\obj\x86\Release\SpotifyPlaylistAntiTakedown.csprojResolveAssemblyReference.cache

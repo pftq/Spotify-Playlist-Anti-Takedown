@@ -30,7 +30,7 @@ namespace SpotifyPlaylistAntiTakedown
                 {
                     if (accountToken == "")
                     {
-                        Console.WriteLine("Input Spotify AOUTH token to your account.  Fetch from https://developer.spotify.com/console/put-playlist/");
+                        Console.WriteLine("Input Spotify OAUTH token to your account.  Copy from https://developer.spotify.com/console/put-playlist/");
                         if (Properties.Settings.Default.accountToken != "") Console.WriteLine("Hit enter to use previous token: " + Properties.Settings.Default.accountToken);
                         accountToken = Console.ReadLine();
                         if (accountToken == "" && Properties.Settings.Default.accountToken != "") accountToken = Properties.Settings.Default.accountToken;
