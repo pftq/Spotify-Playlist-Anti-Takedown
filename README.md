@@ -1,5 +1,5 @@
 # Spotify-Playlist-Anti-Takedown
-Short script for restoring the title/description if a bot is repeatedly taking down your playlist.  
+Short script for restoring the title/description if a bot is repeatedly taking down your playlist.  A bot kept taking down my Spotify playlist, so I made another bot to keep bringing it back.
 
 Instructions: Executable file is located in bin/release folder (just double-click the exe).
 
